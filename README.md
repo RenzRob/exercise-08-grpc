@@ -1,4 +1,4 @@
-# Exercise 08 — gRPC Service Communication
+# Exercise 08 — gRPC Service communication
 
 > **Distributed Systems & Parallel Programming — UNLu 2026**
 >
