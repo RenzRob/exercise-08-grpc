@@ -1,0 +1,31 @@
+grpc_server/requirements.txt
+  s_6b582b379f75ef::t_b0c6f932c3ff64 3-4
+docker-compose.yml
+  s_6b582b379f75ef::t_8e24561a54a4f2 1-42
+proto/node_registry.proto
+  s_6b582b379f75ef::t_e67d66e595ae77 1-40
+grpc_server/server.py
+  s_6b582b379f75ef::t_855544a6379936 1-156
+gateway/app.py
+  s_6b582b379f75ef::t_0ed53ad6fb03ad 1-91
+grpc_server/Dockerfile
+  s_6b582b379f75ef::t_e360f3c5d03a7d 1-22
+gateway/Dockerfile
+  s_6b582b379f75ef::t_58ea1c3f068282 1-22
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.8",
+  "base_commit_sha": "5c3b171b103e10ffccb58db7f54b1d8106faa2df",
+  "prompts": {},
+  "sessions": {
+    "s_6b582b379f75ef": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "8b61752c-9858-4509-bef2-056c36bfc0a1",
+        "model": "claude-sonnet-4-6"
+      },
+      "human_author": "rrobles_meli <renzo.robles@mercadolibre.com>"
+    }
+  }
+}
